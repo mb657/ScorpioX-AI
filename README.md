@@ -1,2 +1,11 @@
-ScorpioX-AI
-ScorpioX-AI is an educational AI chatbot designed for students of all levels. It helps with learning, practice, and problem-solving in subjects like math, science, programming, language, and general knowledge. Students can choose from five AI models: ChatGPT, Gemini, Perplexity, Grok, and Claude to get accurate and easy-to-understand answers. ScorpioX-AI provides step-by-step explanations, quizzes, summaries, and study support in a simple, clean interface. It’s beginner-friendly and suitable for any student who wants quick guidance, practice exercises, or explanations in Nepali or English. Perfect for homework, exam prep, or self-learning.
+ScorpioX-AI एक शैक्षिक AI chatbot हो, जुन सबै तहका विद्यार्थीहरूको लागि बनाइएको हो। यसले गणित, विज्ञान, प्रोग्रामिङ, भाषा, र सामान्य ज्ञानमा सहज, सरल, र नेपालीमा जवाफ दिन्छ।
+विशेषताहरू:
+Step-by-step समाधान र व्याख्या
+अभ्यास प्रश्न र क्विज़ बनाउन सकिन्छ
+लामो नोट्स वा पाठलाई सारांश (summary) बनाउँछ
+सफा र मोबाइलमैत्री इन्टरफेस
+प्रयोग गर्ने तरिका:
+प्रश्न लेख्नुहोस्
+Claude मोडेल प्रयोग गरेर तुरुन्त जवाफ पाउनुहोस्
+सजिलो Nepali explanation र अध्ययन सहयोग प्राप्त गर्नुहोस्
+टेक स्ट्याक: HTML, CSS, JS (Frontend), Python Flask (Backend), Claude API
