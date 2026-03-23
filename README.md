@@ -1,10 +1,2 @@
 ScorpioX-AI
-ScorpioX-AI is an educational AI chatbot for students of all levels. It allows users to select from multiple AI models (ChatGPT, Grok, Gemini, Perplexity, Claude, DeepSeek, Qwen) to get answers, explanations, and study help. The interface is clean and simple, inspired by ChatGPT, making learning fast, interactive, and fun.
-Features
-Multiple AI Models: Choose from ChatGPT, Grok, Gemini, Perplexity, Claude, DeepSeek, Qwen.
-Educational Focus: Supports math, science, programming, language learning, and general knowledge.
-Step-by-Step Explanations: Understand concepts clearly with detailed solutions.
-Quiz & Practice Questions: Generate exercises for better learning.
-Summarization & Notes: Condense long text or notes quickly.
-Simple Interface: Clean, minimalistic chat layout for easy use.
-Optional Account Tracking: Save conversations, track learning progress, and revisit sessions
+ScorpioX-AI is an educational AI chatbot designed for students of all levels. It helps with learning, practice, and problem-solving in subjects like math, science, programming, language, and general knowledge. Students can choose from five AI models: ChatGPT, Gemini, Perplexity, Grok, and Claude to get accurate and easy-to-understand answers. ScorpioX-AI provides step-by-step explanations, quizzes, summaries, and study support in a simple, clean interface. It’s beginner-friendly and suitable for any student who wants quick guidance, practice exercises, or explanations in Nepali or English. Perfect for homework, exam prep, or self-learning.
